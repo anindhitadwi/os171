@@ -1,0 +1,12 @@
+w00-170206-10-LR-About: Introduction to Operating System, From: Book-Guide to operating system
+w00-170206-22-LR-About: Linux Introduction, From: Youtube-
+https://www.youtube.com/watch?v=_KnmRdK69qM&list=PL3EFBFBCE1249ABC0&index=2
+w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-14-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-19-PS-About: GITHUB Learning
+w00-170209-13-LR-Watching demo from lecturer
+w00-170209-13-LR-Watching demo from lecturer
+w00-170209-14-PS-Binary to decimal exercise in class
+w00-170209-19-DS-Discuss scripting
+w00-170209-21-LR-About: Basic Scripting, From: https://www.youtube.com/watch?v=34WTt0gNy0g
